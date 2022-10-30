@@ -2,29 +2,29 @@
 
 > Objetivo
 
-    ** Crear marca de la pastelería, maquetación de páginas de cliente y pastelero **
+**Crear marca de la pastelería, maquetación de páginas de cliente y pastelero.**
 
 > Cliente   
 
-** Ver los diferentes sabores de pasteles y precios de cada uno. **
+**Ver los diferentes sabores de pasteles y precios de cada uno.**
 
-** Ver los diferentes adornos con los que se puede decorar el pastel y precios de cada uno. **
+**Ver los diferentes adornos con los que se puede decorar el pastel y precios de cada uno.**
 
-** Capacidad de combinar o combinar adornos sabores dependiendo de sus preferencias. **
+**Capacidad de combinar o combinar adornos sabores dependiendo de sus preferencias.**
 
-** Llenar formulario con datos de contacto (Nombre, Teléfono, Correo Electrónico), Descripción general del  pastel y la selección de sabores y adornos.**
+**Llenar formulario con datos de contacto (Nombre, Teléfono, Correo Electrónico), Descripción general del  pastel y la selección de sabores y adornos.**
 
 
 >Pastelero
 
-** Requiere información de la cantidad de sabores y de adornos que le quedan para hacer los pasteles. **
+**Requiere información de la cantidad de sabores y de adornos que le quedan para hacer los pasteles.**
 
-** Requiere tabla con los pedidos que se han realizado con los datos del formulario. **
+**Requiere tabla con los pedidos que se han realizado con los datos del formulario.**
 
 
 > Preferencias
 
-** La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención. **
+**La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.**
 
     
     

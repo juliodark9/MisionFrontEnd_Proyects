@@ -3,34 +3,34 @@
 
 > Objetivo
 
-    ** Automatizar demandas de los clientes de un despacho de abogados a traves de un formulario web **
+**Automatizar demandas de los clientes de un despacho de abogados a traves de un formulario web.**
 
 > Cliente
 
-    ** El cliente crea una cuenta en la plataforma. **
+**El cliente crea una cuenta en la plataforma.**
 
-    ** Llena formulario para generar con el proceso de pago para finalizar la transacción. **
+**Llena formulario para generar con el proceso de pago para finalizar la transacción.**
     
-    ** Visualizar seguimiento de cada una de las actualizaciones del proceso legal. **
+**Visualizar seguimiento de cada una de las actualizaciones del proceso legal.**
 
-    ** Notificación vía correo para saber el avance de su proceso. **
+**Notificación vía correo para saber el avance de su proceso.**
 
 
 > Administrador 
 
-    ** Recibe notificaciones de una nueva demanda. **
+**Recibe notificaciones de una nueva demanda.**
 
-    ** Muestra un Dashboard para consultar pagos recibidos y cantidad de ingresos recibidos **
+**Muestra un Dashboard para consultar pagos recibidos y cantidad de ingresos recibidos.**
 
-    ** Creación automática del documento legal en formato word para empezar el proceso. **
+**Creación automática del documento legal en formato word para empezar el proceso.**
 
-    ** Actualiza el proceso de la demanda y agrega comentarios en cada paso del proceso. **
+**Actualiza el proceso de la demanda y agrega comentarios en cada paso del proceso.**
     
 >Preferencias  
 
-    ** Responsive para dispositivos móviles **
+**Responsive para dispositivos móviles.**
 
-    ** Colores del cliente azul marino y blanco **
+**Colores del cliente azul marino y blanco.**
 
 
 ## Requerimientos   
