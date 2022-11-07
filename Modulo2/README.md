@@ -33,3 +33,8 @@ Bonus: En caso de que te quede corto el ejercicio síguete con esto!
     Bonus de estilos (Intro a CSS)
     Bonus de Rutas (Navegación en la página)
     Bonus de despliegue (Montar la página en línea con dominio gratuito)
+
+
+Enlace
+
+<a href="https://juliodark9.github.io/PRACTICA2/Index.html">Enlace a la pagina en dominio de GitHub </a>
