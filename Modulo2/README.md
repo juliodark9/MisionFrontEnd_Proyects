@@ -37,4 +37,4 @@ Bonus: En caso de que te quede corto el ejercicio síguete con esto!
 
 Enlace
 
-<a href="https://juliodark9.github.io/PRACTICA2/Index.html">Enlace a la pagina en dominio de GitHub </a>
+<a href="https://juliodark9.github.io/PRACTICA2/Index.html" target="_blank">Enlace a la pagina en dominio de GitHub </a>
